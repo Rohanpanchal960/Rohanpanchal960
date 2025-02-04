@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, SQL, MongoDB, PHP, Data Analysis, Data Visualization**
 
-- 📫 How to reach me **mevadahimal2002@gmail.com**
+- 📫 How to reach me **mr.panchal960@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
